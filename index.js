@@ -117,30 +117,30 @@ Create a function called `getCountryWins` that takes the parameters `data` and `
 Hint: Investigate your data to find "team initials"!
 Hint: use `.reduce` */
 
-function getCountryWins(data, teamInitials) {
-    let teamInitials = item['Home Team Initials'] : item['Away Team Initials']
-    const getCountryWins = data.reduce(function(acc, item){
-        return acc + item['TeamInitials']
-    })
+// function getCountryWins(data, teamInitials) {
+//     let teamInitials = item['Home Team Initials'] : item['Away Team Initials']
+//     const getCountryWins = data.reduce(function(acc, item){
+//         return acc + item['TeamInitials']
+//     })
 
-}
+// }
 
 
 
 /* 💪💪💪💪💪 Stretch 2: 💪💪💪💪💪 
 Write a function called getGoals() that accepts a parameter `data` and returns the team with the most goals score per appearance (average goals for) in the World Cup finals */
 
-function getGoals(data,) {
+// function getGoals(data,) {
 
-}
+// }
 
 
 /* 💪💪💪💪💪 Stretch 3: 💪💪💪💪💪
 Write a function called badDefense() that accepts a parameter `data` and calculates the team with the most goals scored against them per appearance (average goals against) in the World Cup finals */
 
-function badDefense(data) {
-    const badDefense = data.
-}
+// function badDefense(data) {
+//     const badDefense = data.
+// }
 
 
 /* If you still have time, use the space below to work on any stretch goals of your chosing as listed in the README file. */
